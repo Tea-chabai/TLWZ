@@ -2,15 +2,15 @@
     "ServerKind": 0,
     "OrganizationName": "铜陵五中",
     "ClassPlanSource": {
-        "Value": "https://raw.githubusercontent.com/（把这里替换成你的 GitHub 用户名）/classisland-mgmt-cfg/master/classplans.json",
+        "Value": "https://raw.bgithub.xyz/Tea-chabai/TLWZ/refs/heads/main/g301/ClassPlans.json",
         "Version": 1
     },
     "TimeLayoutSource": {
-        "Value": "https://raw.githubusercontent.com/（把这里替换成你的 GitHub 用户名）/classisland-mgmt-cfg/master/timelayouts.json",
+        "Value": "https://raw.bgithub.xyz/Tea-chabai/TLWZ/refs/heads/main/g301/TimeLayouts.json",
         "Version": 1
     },
     "SubjectsSource": {
-        "Value": "https://raw.githubusercontent.com/（把这里替换成你的 GitHub 用户名）/classisland-mgmt-cfg/master/subjects.json",
+        "Value": "https://raw.bgithub.xyz/Tea-chabai/TLWZ/refs/heads/main/g301/Subjects.json",
         "Version": 1
     }
 }
