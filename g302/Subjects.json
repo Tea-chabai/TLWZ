@@ -739,31 +739,5 @@
       },
       "IsActive": false
     }
-  },
-  "IsOverlayClassPlanEnabled": false,
-  "OverlayClassPlanId": null,
-  "TempClassPlanId": null,
-  "TempClassPlanSetupTime": "2025-02-20T18:08:40.9506157+08:00",
-  "ClassPlanGroups": {
-    "acaf4ef0-e261-4262-b941-34ea93cb4369": {
-      "Name": "默认",
-      "IsGlobal": false,
-      "IsActive": false
-    },
-    "00000000-0000-0000-0000-000000000000": {
-      "Name": "全局课表群",
-      "IsGlobal": true,
-      "IsActive": false
-    }
-  },
-  "SelectedClassPlanGroupId": "00000000-0000-0000-0000-000000000000",
-  "TempClassPlanGroupId": null,
-  "TempClassPlanGroupExpireTime": "2024-10-14T18:02:43.0155654+08:00",
-  "IsTempClassPlanGroupEnabled": false,
-  "TempClassPlanGroupType": 1,
-  "Id": "14487996-9b7b-45a8-b128-312a6e95a13b",
-  "OrderedSchedules": {
-
-  },
-  "IsActive": false
+  }
 }
