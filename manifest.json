@@ -12,5 +12,9 @@
     "SubjectsSource": {
         "Value": "https://raw.bgithub.xyz/Tea-chabai/TLWZ/refs/heads/main/{id}/Subjects.json",
         "Version": 1
+    },
+    "PolicySource": {
+        "Value": "https://raw.bgithub.xyz/Tea-chabai/TLWZ/refs/heads/main/policy.json",
+        "Version": 1
     }
 }
