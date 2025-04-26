@@ -408,7 +408,7 @@
             "IsEnabled": true,
             "Name": "新行动",
             "Guid": "93630215-9bdc-4998-a556-bb981ec44f2b",
-            "IsOn": false,
+            "IsOn": true,
             "Actions": [
               {
                 "Id": "classisland.showNotification",
@@ -960,8 +960,8 @@
           "IsActive": false
         },
         {
-          "StartSecond": "2025-02-13T15:30:00+08:00",
-          "EndSecond": "2025-02-13T15:30:00+08:00",
+          "StartSecond": "2025-02-13T15:35:00+08:00",
+          "EndSecond": "2025-02-13T15:35:00+08:00",
           "TimeType": 3,
           "IsHideDefault": false,
           "DefaultClassId": "",
@@ -970,7 +970,7 @@
             "IsEnabled": true,
             "Name": "新行动",
             "Guid": "666d16c1-a548-4c28-aaee-ca4114814b4a",
-            "IsOn": false,
+            "IsOn": true,
             "Actions": [
               {
                 "Id": "classisland.showNotification",
