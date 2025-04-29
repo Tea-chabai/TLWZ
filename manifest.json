@@ -3,7 +3,7 @@
     "OrganizationName": "铜陵五中",
     "ClassPlanSource": {
         "Value": "https://raw.bgithub.xyz/Tea-chabai/TLWZ/refs/heads/main/{id}/ClassPlans.json",
-        "Version": 1
+        "Version": 2
     },
     "TimeLayoutSource": {
         "Value": "https://raw.bgithub.xyz/Tea-chabai/TLWZ/refs/heads/main/{id}/TimeLayouts.json",

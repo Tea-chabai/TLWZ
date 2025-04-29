@@ -145,7 +145,9 @@
           "IsClassOffNotificationEnabled": true,
           "ClassPreparingDeltaTime": 20,
           "ClassOnPreparingText": "准备上课",
+          "OutdoorClassOnPreparingText": "下节课程为户外课程，请合理规划，做好上课准备。",
           "ClassOnPreparingMaskText": "即将上课",
+          "OutdoorClassOnPreparingMaskText": "即将上课",
           "ClassOnMaskText": "上课",
           "ClassOffMaskText": "课间休息",
           "ClassOffOverlayText": "",
@@ -265,7 +267,7 @@
           "IsActive": false
         },
         {
-          "SubjectId": "26479173-5ba9-46a1-afeb-e5b8a1d616d8",
+          "SubjectId": "77d060a7-ea03-4cdf-ba1c-cca21d960cc5",
           "IsChangedClass": false,
           "AttachedObjects": {
 
@@ -428,7 +430,7 @@
           "IsActive": false
         },
         {
-          "SubjectId": "77d060a7-ea03-4cdf-ba1c-cca21d960cc5",
+          "SubjectId": "26479173-5ba9-46a1-afeb-e5b8a1d616d8",
           "IsChangedClass": false,
           "AttachedObjects": {
 
@@ -1166,7 +1168,9 @@
           "IsClassOffNotificationEnabled": true,
           "ClassPreparingDeltaTime": 20,
           "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+          "OutdoorClassOnPreparingText": "下节课程为户外课程，请合理规划，做好上课准备。",
           "ClassOnPreparingMaskText": "即将上课",
+          "OutdoorClassOnPreparingMaskText": "即将上课",
           "ClassOnMaskText": "上课",
           "ClassOffMaskText": "课间休息",
           "ClassOffOverlayText": "",
@@ -1189,5 +1193,6 @@
       "IsActive": false
     }
   },
+
   "Subjects": {}
 }
