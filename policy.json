@@ -1,4 +1,4 @@
 {
-    "DisableDebugMenu": true,
-    "AllowExitManagement": false
+    "DisableDebugMenu": false,
+    "AllowExitManagement": true
 }
