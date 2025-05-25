@@ -18,7 +18,7 @@
         "Version": 3
     },
     "DefaultSettingsSource": {
-        "Value": "https://raw.bgithub.xyz/Tea-chabai/TLWZ/refs/heads/main/{id}/DefaultSettingsSource.json",
+        "Value": "https://raw.bgithub.xyz/Tea-chabai/TLWZ/refs/heads/main/{id}/Settings.json",
         "Version": 1
     }
 }
